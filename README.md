@@ -17,3 +17,7 @@ Para construir el build:
 ```
 npm run build
 ```
+
+Para ejecutar el server
+```
+npm run start
