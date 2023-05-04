@@ -8,17 +8,12 @@ Pero esto lo veremos en la siguiente sección
 
 
 ### Notas:
-- Recorda recontruir los modulos de node
-- npm install 
-- el comando busca en el archivo package.json todos los componentes que se necesita instalar, para que funcione mi proyecto.
-```
-
+Recordar reconstruir modulos de node
 ```
 npm install
 ```
 
-para construir el build, recuerden:
+Para construir el build:
 ```
-
 npm run build
 ```
